@@ -3,7 +3,6 @@ import { Switch, Route, NavLink } from "react-router-dom";
 import Homepage from "./components/Homepage/Homepage";
 import MoviesPage from "./components/MoviesPage/MoviesPage";
 import MovieDetailsPage from "./components/MovieDetailsPage/MovieDetailsPage";
-import "./App.css";
 
 class App extends Component {
   render() {
